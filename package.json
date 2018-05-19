@@ -1,0 +1,25 @@
+{
+  "name": "basic-express-node",
+  "version": "1.0.0",
+  "description": "Simple Express web server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilgulee/basic-express-node.git"
+  },
+  "author": "ilgu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilgulee/basic-express-node/issues"
+  },
+  "homepage": "https://github.com/ilgulee/basic-express-node#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
